@@ -2774,6 +2774,7 @@ __metadata:
     "@storybook/test": "npm:^8.1.7"
     prop-types: "npm:^15.8.1"
     storybook: "npm:^8.1.7"
+    storybook-addon-root-attributes: "npm:^2.1.3"
     vite: "npm:^5.2.13"
   languageName: unknown
   linkType: soft
@@ -10919,6 +10920,21 @@ __metadata:
   version: 2.14.3
   resolution: "store2@npm:2.14.3"
   checksum: 10/f95f6fbacff14cc3bb9e5e16ced2f29e2d706e30b248c16cf19abed8b2bb31d8f3907c8ccf1a5284d806fdcaf06e96710e4f4f52195e51522a452536beaf7af9
+  languageName: node
+  linkType: hard
+
+"storybook-addon-root-attributes@npm:^2.1.3":
+  version: 2.1.3
+  resolution: "storybook-addon-root-attributes@npm:2.1.3"
+  peerDependencies:
+    react: ^17.0.0 || ^18.0.0
+    react-dom: ^17.0.0 || ^18.0.0
+  peerDependenciesMeta:
+    react:
+      optional: true
+    react-dom:
+      optional: true
+  checksum: 10/7de509f069627bcfdc76f1980a2167d589c0741a9a924f276679dc6d2ebe5a06ad8dbbdbcceb38b1c8bb0d7c22d3c66319befe6dc7f5e357e792e68a694dde7b
   languageName: node
   linkType: hard
 
